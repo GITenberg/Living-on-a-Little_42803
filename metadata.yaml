@@ -1,0 +1,32 @@
+_repo: Living-on-a-Little_42803
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benton, Caroline French
+    alias: Burrell, Caroline Frances Benedict
+    gutenberg_agent_id: '6759'
+    url: http://www.gutenberg.org/2009/agents/6759
+description: This comprehensive guide to the art and science of keeping house on a
+  budget is presented in novel format. In preparation for her wedding, a young woman
+  spends a year with a kind relative who is regarded as a top-notch household manager.
+  Although the dollar amounts in the suggested budgets may of historic interest only,
+  the basic concepts are as relevant as ever.
+gutenberg_issued: '2013-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42803'
+  lccn: 08021938
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Low budget cooking'
+- !lcc 'TX'
+- !lcsh 'Home economics'
+- !lcsh 'Cooking'
+title: Living on a Little
+url: http://www.gutenberg.org/ebooks/42803
